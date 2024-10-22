@@ -1,5 +1,5 @@
 # DSA-Basics
-Foundation before starting Data "Structures and Algorithm". Beginner friendly problems with increasing difficulty.
+Foundation before starting "Data Structures and Algorithm". Beginner friendly problems with increasing difficulty.
 
 Thank you Prince Singh Sir for providing the sheet - https://github.com/Preparation-Street/Programming-Street-150
 I will use the sheet for reference in making my fundamentals strong.
